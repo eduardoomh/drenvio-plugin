@@ -1,18 +1,18 @@
 === DrEnvio for WooCommerce ===
 Contributors: jesusemh
 Tags: Envíos, logística, DrEnvio, WooCommerce, paqueterías,
-Requires at least: 4.6
+Requires at least: 5.7.3
 Donate link: https://drenvio.com/
-Requires PHP: 5.2.17
-Tested up to: 5.6
+Requires PHP: 7.3.21
+Tested up to: 7.3.21
 Stable tag: 1.0
 License: GPLv2 o superior
 
-El plugin de DrEnvio para su tienda en WooCommerce, muestre costos de envío dinámicos desde su almacén hasta la dirección de su cliente.
+El plugin de DrEnvio para su tienda en WooCommerce, muestre costos de envío dinámicos desde su dirección hasta la dirección de su cliente.
 
 == Description ==
 
-DrEnvio for WooCommerce permite mostrar opciones de envíos dinámicos a sus clientes dependiendo del código postal y el peso del pedido y la disponibilidad de cada paquetería.
+DrEnvio for WooCommerce permite mostrar opciones de envíos dinámicos a sus clientes dependiendo del código postal, el peso del pedido y la cobertura de cada paquetería.
 
 Características incluidas en DrEnvio for WooCommerce:
 *Costos de envío dinámico.
@@ -22,14 +22,15 @@ Características incluidas en DrEnvio for WooCommerce:
 == Installation ==
 Instale el zip de DrEnvio for WooCommerce y actívelo, después consiga su llave de producción en  https://drenvio.com/ iniciando sesión y pidiéndolo en nuestro chat.
 Habilite las paqueterías de su preferencia y agregue un código postal y listo, la instalación está lista.
+Revise nuestra [Guía de Instalación](https://jesusmh.s3.us-east-2.amazonaws.com/drenvio/configure-su-plugin-de-wordpress.pdf "Guia para instalar el Plugin de DrEnvio").
 
 == Changelog ==
 
 = 1.0 =
-*Versión inicial - 10 August 2021
+*Versión inicial - 17 September 2021
 
 == Frequently Asked Questions ==
-Cualquier duda con respecto al funcionamiento o confuguración del plugin, inicie sesión en https://drenvio.com/ y contacte con nuestro chat.
+Cualquier duda con respecto al funcionamiento o confuguración del plugin, inicie sesión en [DrEnvio](https://drenvio.com/ "DrEnvio.com") y contacte con nuestro chat.
 
 
 == Upgrade Notice ==
