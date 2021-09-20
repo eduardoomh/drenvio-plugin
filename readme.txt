@@ -2,9 +2,9 @@
 Contributors: jesusemh
 Tags: Envíos, logística, DrEnvio, WooCommerce, paqueterías,
 Requires at least: 5.7.3
+Tested up to: 5.8
 Donate link: https://drenvio.com/
 Requires PHP: 7.3.21
-Tested up to: 7.3.21
 Stable tag: 1.0
 License: GPLv2 o superior
 
@@ -22,7 +22,7 @@ Características incluidas en DrEnvio for WooCommerce:
 == Installation ==
 Instale el zip de DrEnvio for WooCommerce y actívelo, después consiga su llave de producción en  https://drenvio.com/ iniciando sesión y pidiéndolo en nuestro chat.
 Habilite las paqueterías de su preferencia y agregue un código postal y listo, la instalación está lista.
-Revise nuestra [Guía de Instalación](https://jesusmh.s3.us-east-2.amazonaws.com/drenvio/configure-su-plugin-de-wordpress.pdf "Guia para instalar el Plugin de DrEnvio").
+Revise nuestra Guía de Instalación https://jesusmh.s3.us-east-2.amazonaws.com/drenvio/configure-su-plugin-de-wordpress.pdf .
 
 == Changelog ==
 
@@ -30,7 +30,7 @@ Revise nuestra [Guía de Instalación](https://jesusmh.s3.us-east-2.amazonaws.co
 *Versión inicial - 17 September 2021
 
 == Frequently Asked Questions ==
-Cualquier duda con respecto al funcionamiento o confuguración del plugin, inicie sesión en [DrEnvio](https://drenvio.com/ "DrEnvio.com") y contacte con nuestro chat.
+Cualquier duda con respecto al funcionamiento o confuguración del plugin, inicie sesión en https://drenvio.com/  y contacte con nuestro chat.
 
 
 == Upgrade Notice ==
