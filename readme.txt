@@ -22,7 +22,7 @@ Características incluidas en DrEnvio for WooCommerce:
 == Installation ==
 Instale el zip de DrEnvio for WooCommerce y actívelo, después consiga su llave de producción en  https://drenvio.com/ iniciando sesión y pidiéndolo en nuestro chat.
 Habilite las paqueterías de su preferencia y agregue un código postal y listo, la instalación está lista.
-Revise nuestra Guía de Instalación https://jesusmh.s3.us-east-2.amazonaws.com/drenvio/configure-su-plugin-de-wordpress.pdf .
+Revise nuestra [Guía de Integración](https://jesusmh.s3.us-east-2.amazonaws.com/drenvio/configure-su-plugin-de-wordpress.pdf "Guía de integración").
 
 == Changelog ==
 

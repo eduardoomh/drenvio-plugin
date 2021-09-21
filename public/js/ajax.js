@@ -29,16 +29,16 @@ jQuery('body').on('updated_checkout', function () {
     let DrEnvioFWooElementos = document.querySelectorAll(".input-second-class");
     let DrEnvioFWooArrayElementos = Array.from(DrEnvioFWooElementos);
 
-    let DrEnvioFWooCheckeds = DrEnvioFWooArrayElementos.filter(el => el.DrEnvioFWooChecked === true);
+    let DrEnvioFWooCheckeds = DrEnvioFWooArrayElementos.filter(el => el.checked === true);
 
     if(DrEnvioFWooCheckeds && DrEnvioFWooCheckeds.length === 0){
         DrEnvioFWooArrayElementos[0].checked = true;
 
     }
-    
 });
 
 jQuery( document ).ready( function(){
+    console.log("listo")
     if (jQuery('#calc_shipping_postcode').val() == '') {
         jQuery('#shipping_method li').hide();
         var subtotal = jQuery('.cart-subtotal td span.woocommerce-Price-amount.amount').text();
