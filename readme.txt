@@ -20,7 +20,7 @@ Características incluidas en DrEnvio for WooCommerce:
 *Cotizaciones para envíos dentro de México y envíos internacionales.
 
 == Installation ==
-Instale el zip de DrEnvio for WooCommerce y actívelo, después consiga su llave de producción en  https://drenvio.com/ iniciando sesión y pidiéndolo en nuestro chat.
+Instale el zip de DrEnvio for WooCommerce y actívelo, después consiga su llave de producción en [DrEnvio.com](https://drenvio.com "DrEnvio.com") iniciando sesión y pidiéndolo en nuestro chat.
 Habilite las paqueterías de su preferencia y agregue un código postal y listo, la instalación está lista.
 Revise nuestra [Guía de Integración](https://jesusmh.s3.us-east-2.amazonaws.com/drenvio/configure-su-plugin-de-wordpress.pdf "Guía de integración").
 
@@ -30,7 +30,7 @@ Revise nuestra [Guía de Integración](https://jesusmh.s3.us-east-2.amazonaws.co
 *Versión inicial - 17 September 2021
 
 == Frequently Asked Questions ==
-Cualquier duda con respecto al funcionamiento o confuguración del plugin, inicie sesión en https://drenvio.com/  y contacte con nuestro chat.
+Cualquier duda con respecto al funcionamiento o confuguración del plugin, inicie sesión en [DrEnvio.com](https://drenvio.com "DrEnvio.com") y contacte con nuestro chat.
 
 
 == Upgrade Notice ==
